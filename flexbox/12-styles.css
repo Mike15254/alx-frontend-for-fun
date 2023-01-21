@@ -708,20 +708,20 @@ ul.row {
 }
 
 .main-article {
-    padding: 5rem 0;
+  padding: 5rem 0;
 }
 
 /* Post
     ============================= */
 
 .post {
-    display: flex;
+  display: flex;
 }
 
 .post-content {
-    width: 100%;
+  width: 100%;
 }
 
 .post-aside {
-    min-width: 20%;
+  min-width: 20%;
 }
