@@ -405,7 +405,7 @@ ul.row {
   background: transparent;
 }
 
-.header-container {
+.header-cotainer {
   display: flex;
   justify-content: space-between;
 }
