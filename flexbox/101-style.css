@@ -1,0 +1,35 @@
+.container {
+    position: absolute;
+    display: flex;
+    left: 50vh;
+    top: 20vh;
+}
+.box {
+  flex-direction: column;
+
+}
+
+.box1 {
+  background-color: aquamarine;
+  text-align: center;
+  line-height: 90px;
+  width: 40px;
+}
+
+.box2 {
+  background-color: brown;
+  width: 90px;
+  line-height: 50px;
+}
+
+.box3 {
+    background-color: yellow;
+}
+
+.box4 {
+    background-color: blue;
+}
+
+.box5 {
+    background-color: blueviolet;
+}
