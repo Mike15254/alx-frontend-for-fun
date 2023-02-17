@@ -1,7 +1,9 @@
 /* Variable text color */
 $text-color: #3D3D3D;
 
-body,
+body {
+  color: $text-color;
+}
 p {
   color: $text-color;
 }
