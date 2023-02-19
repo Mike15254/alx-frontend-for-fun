@@ -1,0 +1,14 @@
+/* Margin mixin */
+
+@mixin marginLR($margin) {
+  margin-left: $margin;
+  margin-right: $margin;
+}
+
+body {
+  @include marginLR(10px);
+}
+
+div {
+  @include marginLR(15px);
+}
