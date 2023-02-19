@@ -1,0 +1,7 @@
+/* Sort */
+
+@debug 'Unsorted list: #{$list_to_sort}';
+
+$list_sorted: sort($list_to_sort);
+
+@debug 'Sorted list: #{$list_sorted}';
